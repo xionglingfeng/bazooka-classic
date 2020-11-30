@@ -1,0 +1,15 @@
+package-as: Bazooka-Classic
+
+externals:
+  Bazooka/libs/CallbackHandler-1.0: https://repos.wowace.com/wow/callbackhandler/trunk/CallbackHandler-1.0
+  Bazooka/libs/LibDataBroker-1.1: git://github.com/tekkub/libdatabroker-1-1.git
+  Bazooka/libs/LibStub: https://repos.wowace.com/wow/libstub/trunk
+  Bazooka/libs/LibSharedMedia-3.0: https://repos.wowace.com/wow/libsharedmedia-3-0/trunk/LibSharedMedia-3.0
+  Bazooka/libs/LibJostle-3.0: https://repos.wowace.com/wow/libjostle-3-0/trunk/libjostle-3-0
+  Bazooka/libs/LibDualSpec-1.0: https://repos.wowace.com/wow/libdualspec-1-0/trunk/libdualspec-1-0
+  Bazooka/libs/Ace3/AceAddon-3.0: https://repos.wowace.com/wow/ace3/trunk/ace3/AceAddon-3.0
+  Bazooka/libs/Ace3/AceDB-3.0: https://repos.wowace.com/wow/ace3/trunk/ace3/AceDB-3.0
+  Bazooka/libs/Ace3/AceEvent-3.0: https://repos.wowace.com/wow/ace3/trunk/ace3/AceEvent-3.0
+  Bazooka/libs/Ace3/AceLocale-3.0: https://repos.wowace.com/wow/ace3/trunk/ace3/AceLocale-3.0
+
+enable-nolib-creation: no
